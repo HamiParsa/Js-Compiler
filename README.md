@@ -1,11 +1,6 @@
-<div>
-  <h1>Click on the GitHub icon below to view the project online.</h1>
-  <a href="https://hamiparsa.github.io/Js-Compiler/">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</div>
 
-JS Code Runner 💻⚡
+
+## JS Code Runner 💻⚡
 
 This is a modern, interactive JavaScript code runner web application. Users can write JS code and see the output instantly in the browser with a clean and immersive interface.
 
